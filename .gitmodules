@@ -1,0 +1,75 @@
+[submodule "opt/mason"]
+	path = opt/mason
+	url = https://github.com/mason-org/mason.nvim
+[submodule "start/nvim-lspconfig"]
+	path = start/nvim-lspconfig
+	url = https://github.com/neovim/nvim-lspconfig.git
+[submodule "start/mason-lspconfig"]
+	path = start/mason-lspconfig
+	url = https://github.com/mason-org/mason-lspconfig.nvim
+[submodule "start/cmp-nvim-lsp"]
+	path = start/cmp-nvim-lsp
+	url = https://github.com/hrsh7th/cmp-nvim-lsp
+[submodule "start/LuaSnip"]
+	path = start/LuaSnip
+	url = https://github.com/L3MON4D3/LuaSnip
+[submodule "start/nvim-cmp"]
+	path = start/nvim-cmp
+	url = https://github.com/hrsh7th/nvim-cmp
+[submodule "start/nerdtree"]
+	path = start/nerdtree
+	url = https://github.com/preservim/nerdtree
+[submodule "start/tagbar"]
+	path = start/tagbar
+	url = https://github.com/preservim/tagbar
+[submodule "start/trouble"]
+	path = start/trouble
+	url = https://github.com/folke/trouble.nvim
+[submodule "start/todo-comments"]
+	path = start/todo-comments
+	url = https://github.com/folke/todo-comments.nvim
+[submodule "plenary"]
+	path = plenary
+	url = https://github.com/nvim-lua/plenary.nvim
+[submodule "start/plenary"]
+	path = start/plenary
+	url = https://github.com/nvim-lua/plenary.nvim
+[submodule "start/todo"]
+	path = start/todo
+	url = https://github.com/folke/todo-comments.nvim
+[submodule "start/vim-fugitive"]
+	path = start/vim-fugitive
+	url = https://github.com/tpope/vim-fugitive
+[submodule "start/vim-flog"]
+	path = start/vim-flog
+	url = https://github.com/rbong/vim-flog
+[submodule "start/vim-unimpaired"]
+	path = start/vim-unimpaired
+	url = https://github.com/tpope/vim-unimpaired
+[submodule "start/gitsigns"]
+	path = start/gitsigns
+	url = https://github.com/lewis6991/gitsigns.nvim
+[submodule "start/vim-closer"]
+	path = start/vim-closer
+	url = https://github.com/rstacruz/vim-closer
+[submodule "start/vim-doge"]
+	path = start/vim-doge
+	url = https://github.com/kkoomen/vim-doge
+[submodule "start/startup"]
+	path = start/startup
+	url = https://github.com/max397574/startup.nvim
+[submodule "start/friendly-snippets"]
+	path = start/friendly-snippets
+	url = https://github.com/rafamadriz/friendly-snippets
+[submodule "start/vim-airline"]
+	path = start/vim-airline
+	url = https://github.com/vim-airline/vim-airline
+[submodule "start/undotree"]
+	path = start/undotree
+	url = https://github.com/mbbill/undotree
+[submodule "start/vim-airline-themes"]
+	path = start/vim-airline-themes
+	url = https://github.com/vim-airline/vim-airline-themes
+[submodule "start/rusty-themes"]
+	path = start/rusty-themes
+	url = https://github.com/armannikoyan/rusty/
